@@ -1,0 +1,83 @@
+{
+  "category": "桑巴",
+  "generated": "2026-08-17T00:59:18.163298",
+  "tracks": [
+    {
+      "id": "15593",
+      "title": "Kim Kardashian",
+      "filename": "Kim Kardashian_15593.mp3",
+      "size": 2654992,
+      "bpm": 100,
+      "section": 4,
+      "intro_beats": 2,
+      "category": "桑巴",
+      "category_abbr": "S"
+    },
+    {
+      "id": "15663",
+      "title": "Samba Para Ti",
+      "filename": "Samba Para Ti_15663.mp3",
+      "size": 3147205,
+      "bpm": null,
+      "section": null,
+      "intro_beats": null,
+      "category": "桑巴",
+      "category_abbr": "S"
+    },
+    {
+      "id": "5891",
+      "title": "Samba rhythm",
+      "filename": "Samba rhythm_5891.mp3",
+      "size": 2293458,
+      "bpm": 102,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "桑巴",
+      "category_abbr": "S"
+    },
+    {
+      "id": "4904",
+      "title": "Shaky Shaky",
+      "filename": "Shaky Shaky_4904.mp3",
+      "size": 1546983,
+      "bpm": 102,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "桑巴",
+      "category_abbr": "S"
+    },
+    {
+      "id": "1112",
+      "title": "Shape Of You (Samba 51bpm)",
+      "filename": "Shape Of You (Samba 51bpm)_1112.mp3",
+      "size": 2581014,
+      "bpm": 102,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "桑巴",
+      "category_abbr": "S"
+    },
+    {
+      "id": "4791",
+      "title": "oppressing sensation",
+      "filename": "oppressing sensation_4791.mp3",
+      "size": 2827609,
+      "bpm": 102,
+      "section": 4,
+      "intro_beats": 4,
+      "category": "桑巴",
+      "category_abbr": "S"
+    },
+    {
+      "id": "2555",
+      "title": "抖音超火好听桑巴曲Way Back Home",
+      "filename": "抖音超火好听桑巴曲Way Back Home_2555.mp3",
+      "size": 3458728,
+      "bpm": 100,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "桑巴",
+      "category_abbr": "S"
+    }
+  ]
+}
